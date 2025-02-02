@@ -16,3 +16,7 @@ holoviews
 # numerics and scientific tools
 scipy
 numpy
+
+optax
+IPython
+
